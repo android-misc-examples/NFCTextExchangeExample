@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NFCTextExchangeExample</string>
+    <string name="textToSendLabel">Text to send</string>
+    <string name="text_received">Text received</string>
+</resources>
